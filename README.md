@@ -1,6 +1,7 @@
 # huyenhuyen.github.io
 Quản lý admin: User: admin       Pass: admin
-Link host:     https://dtuneti.heliohost.us
+Link host:     http://mayanh.rf.gd/
+
 Mô tả:
  Khách hàng:
  Đăng ký: Muốn mua hàng người dùng cần đăng ký tài khoản gồm: họ tên, tên tài khoản, email, điện thoạt, địa chỉ, mật khẩu.
