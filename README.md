@@ -22,4 +22,7 @@ Thứ 4 là bảng "oder" khách hàng xem thông tin của sản phẩm sau đ�
 Thứ 5 là bảng "products" bảng này là bảng các sản phẩm hiển thị: tên, giá, sản phẩm, ảnh, thông tin về sản phẩm giúp cho khách hàng có thể tìm hiểu kỹ hơn để chọn ra sản  phẩm mà mình mong muốn.
 ![he](https://user-images.githubusercontent.com/75211708/101360491-49f3ce80-38d0-11eb-8bb6-6e2
 Và cuối cùng bảng thứ 6 "user" đây là bảng người dùng thì thương tự như bảng admin nhưng có thêm một phần là "address" để người dùng cung cấp địa chỉ của mình.
+![b6](https://user-images.githubusercontent.com/75211708/101360976-f1710100-38d0-11eb-82d9-f9813f3f5747.PNG)
+Dưới đây là một số tài khoản người dùng đã được đăng kí:
+
 
