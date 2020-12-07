@@ -20,4 +20,6 @@ Thứ 3 là bảng "feedbac" để người dùng có thể đánh giá được
 Thứ 4 là bảng "oder" khách hàng xem thông tin của sản phẩm sau đó thêm san phẩm vào gi hàng. Khách hàng có thể thêm một lúc nhiều sản phẩm cùng loại và khác loại cùng một lúc, giá tiền của từng loại  sẽ được hiện ra và tổng số tiền của đơn hàng mà bạn phải trả. 
 ![b4](https://user-images.githubusercontent.com/75211708/101358785-ee284600-38cd-11eb-8578-2ba0b5f84767.PNG)
 Thứ 5 là bảng "products" bảng này là bảng các sản phẩm hiển thị: tên, giá, sản phẩm, ảnh, thông tin về sản phẩm giúp cho khách hàng có thể tìm hiểu kỹ hơn để chọn ra sản  phẩm mà mình mong muốn.
+![he](https://user-images.githubusercontent.com/75211708/101360491-49f3ce80-38d0-11eb-8bb6-6e2
+Và cuối cùng bảng thứ 6 "user" đây là bảng người dùng thì thương tự như bảng admin nhưng có thêm một phần là "address" để người dùng cung cấp địa chỉ của mình.
 
