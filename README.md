@@ -14,4 +14,7 @@ Phân tích cơ sở dữ liệu: Tên cơ sở dữ liệu là "nice_camera" đ
 Trong "nice_camera thì gồm có 6. Đầu tiên là bảng "admin_accounts: trong bảng gồm có "id", "name", "username", "mail", "phone", "password".
 ![b1](https://user-images.githubusercontent.com/75211708/101356880-4ad63180-38cb-11eb-8b3e-25124f575467.PNG)
 Thứ hai là bảng "band" đây là bảng để hiển thị các tên hàng.
+![b2](https://user-images.githubusercontent.com/75211708/101357127-9ab4f880-38cb-11eb-97d9-115691040081.PNG)
+Thứ 3 là bảng "feedbac" để người dùng có thể đánh giá được sản phẩm .
+
 
