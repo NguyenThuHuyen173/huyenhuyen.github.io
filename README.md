@@ -16,7 +16,7 @@ Trong "nice_camera thì gồm có 6. Đầu tiên là bảng "admin_accounts: tr
 ![b1](https://user-images.githubusercontent.com/75211708/101356880-4ad63180-38cb-11eb-8b3e-25124f575467.PNG)
 Thứ hai là bảng "band" đây là bảng để hiển thị các tên hàng.
 ![b2](https://user-images.githubusercontent.com/75211708/101357127-9ab4f880-38cb-11eb-97d9-115691040081.PNG)
-Thứ 3 là bảng "feedbac" để người dùng có thể đánh giá được sản phẩm .
+Thứ 3 là bảng "feedback" để người dùng có thể đánh giá được sản phẩm .
 ![b3](https://user-images.githubusercontent.com/75211708/101357211-b7513080-38cb-11eb-89ca-db496120cc9b.PNG)
 Thứ 4 là bảng "oder" khách hàng xem thông tin của sản phẩm sau đó thêm san phẩm vào gi hàng. Khách hàng có thể thêm một lúc nhiều sản phẩm cùng loại và khác loại cùng một lúc, giá tiền của từng loại  sẽ được hiện ra và tổng số tiền của đơn hàng mà bạn phải trả. 
 ![b4](https://user-images.githubusercontent.com/75211708/101358785-ee284600-38cd-11eb-8578-2ba0b5f84767.PNG)
