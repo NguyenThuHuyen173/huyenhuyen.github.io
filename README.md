@@ -9,3 +9,4 @@ Mô tả:
  Khách hàng chọn sản phẩm cần mua sau đó thêm vào giỏ hàng, có thể mua nhiêu sản phẩm cùng lúc sau đó thanh toán.
  Người quản trị:
  Quản lý các chức năng của trang WEB gồm : Thêm sản phẩm, quản lý sản phẩm, quản lý người dùng, quản lý phản hồi, đăng xuất.
+![index](https://user-images.githubusercontent.com/75211708/101355879-d058e200-38c9-11eb-9ec8-ddc209b49fc9.PNG)
