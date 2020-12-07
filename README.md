@@ -10,3 +10,5 @@ Mô tả:
  Người quản trị:
  Quản lý các chức năng của trang WEB gồm : Thêm sản phẩm, quản lý sản phẩm, quản lý người dùng, quản lý phản hồi, đăng xuất.
 ![index](https://user-images.githubusercontent.com/75211708/101355879-d058e200-38c9-11eb-9ec8-ddc209b49fc9.PNG)
+Phân tích cơ sở dữ liệu: Tên cơ sở dữ liệu là "nice_camera" được tạo trên Xampp trong : http://localhost:8080/phpmyadmin/
+Trong "nice_camera thì gồm có 6. Đầu tiên là bảng "admin_accounts"
