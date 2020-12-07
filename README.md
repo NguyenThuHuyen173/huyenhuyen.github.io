@@ -1,6 +1,7 @@
 # huyenhuyen.github.io
 Quản lý admin: User: admin       Pass: admin
 Link host:     http://mayanh.rf.gd/
+Trang web hỗ trợ cho việc đẩy WEB lên hosting đó chính là :https://infinityfree.net/
 
 Mô tả:
  Khách hàng:
@@ -26,6 +27,7 @@ Bảng thứ 6 "user" đây là bảng người dùng thì thương tự như b�
 Dưới đây là một số tài khoản người dùng đã được đăng kí:
 ![qlnguoidung](https://user-images.githubusercontent.com/75211708/101361238-4a409980-38d1-11eb-940a-81dc2f7cbca4.PNG)
 Và cuối cùng là kết nối cơ sở dữ liệu để hiển thị mối liên hệ giữa các bảng với nhau :
+![sql](https://user-images.githubusercontent.com/75211708/101361512-a4d9f580-38d1-11eb-96de-605ccaeed2b8.PNG)
 
 
 
